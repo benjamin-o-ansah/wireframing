@@ -69,3 +69,62 @@ It shows how each element behaves and responds to user input.
 
 **Example:**  
 A login page wireframe might include form fields for username and password, a “Login” button, and links for “Forgot Password?” — demonstrating core interactive behaviors without visual styling.
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+Low-fidelity (low-fi) wireframes are **simple, rough sketches** that represent the basic structure and layout of a design.  
+They are usually created in black and white or grayscale, with placeholder boxes and simple lines to represent content.
+
+**Characteristics:**
+- Minimal detail — focuses on layout, hierarchy, and flow.  
+- Fast to create and modify.  
+- Often hand-drawn or created using basic digital tools.  
+
+**When to Use:**  
+Low-fidelity wireframes are typically used **in the early stages** of the design process to:
+- Explore ideas quickly.  
+- Brainstorm with team members.  
+- Validate user flows and layout concepts before adding details.  
+
+**Example:**  
+A sketched homepage showing blocks for the navigation bar, hero image, and call-to-action buttons without any colors or typography.
+
+
+
+### High-Fidelity Wireframes
+High-fidelity (high-fi) wireframes are **detailed, polished representations** that closely resemble the final product.  
+They include more accurate spacing, refined components, and may incorporate limited colors or placeholder images.
+
+**Characteristics:**
+- High level of detail and precision.  
+- Uses real or realistic content.  
+- Often created using design tools like Figma, Adobe XD, or Sketch.  
+
+**When to Use:**  
+High-fidelity wireframes are typically used **in later stages** of the design process to:
+- Demonstrate final layouts to stakeholders.  
+- Conduct usability testing with near-real interfaces.  
+- Provide developers with clear specifications before implementation.  
+
+**Example:**  
+A high-fidelity e-commerce product page wireframe with defined buttons, icons, and text alignment that mirrors the intended final layout.
+
+## 🖼️ Example Wireframe Provided
+
+The wireframe provided in the following link:  
+👉 [**Project Airbnb (Figma)**](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&p=f&t=Mqx0QLl6nOo6LMoN-0)  
+is classified as a **High-Fidelity Wireframe**.
+
+### Explanation:
+This wireframe includes **detailed visual and interactive elements** that closely resemble the final Airbnb-like product.  
+It contains:
+- Polished layouts with precise alignment and spacing.  
+- Defined components such as search bars, cards, buttons, and navigation menus.  
+- Realistic typography, icons, and content placeholders.  
+- A structured visual hierarchy that mimics the final user interface.  
+
+Such high-fidelity wireframes are typically created during the **later stages of the design process**, right before the prototyping or usability testing phase. They help designers and developers ensure that:
+- The final layout matches the intended design.  
+- Visual elements and interactions are consistent.  
+- Stakeholders can review the design as it would appear in production.
