@@ -197,7 +197,6 @@ Developers can then suggest simpler, more efficient solutions that improve both 
 *Catching issues in the wireframing stage prevents costly redesigns during later development.*
 
 
-
 ### 4. Saves Time and Streamlines Workflow
 
 Because wireframes are **faster to create and modify** than high-fidelity designs or coded prototypes, they make the overall development workflow more efficient.  
@@ -217,5 +216,31 @@ They make sure every feature has a clear purpose and contributes to the overall 
 **Example:**  
 A wireframe for a shopping cart page can highlight key user interactions — such as editing item quantities or applying discount codes — ensuring developers build a frictionless checkout process.
 
- *Wireframes keep the team grounded in user needs throughout the software lifecycle.*
+*Wireframes keep the team grounded in user needs throughout the software lifecycle.*
+
+
+## Real-World Scenario: Identifying Usability Issues Through Wireframing
+
+During the design phase of a **food delivery mobile application**, the design team created **mid-fidelity wireframes** to map the customer journey, from browsing restaurants to placing an order.  
+
+While reviewing these wireframes in a collaborative session, several **usability issues** were identified early:
+
+1. **Overcomplicated Checkout Flow**  
+   The checkout process had too many screens, requiring users to confirm their address multiple times.  
+   ➤ *Resolution:* The team consolidated redundant steps into a single confirmation page.  
+   ➤ *Impact:* Checkout completion time decreased by nearly 40% during later usability tests.
+
+2. **Hidden Navigation Options**  
+   The navigation bar placed key actions (“Track Order” and “Order History”) under a dropdown menu, making them hard to discover.  
+   ➤ *Resolution:* Designers moved these actions into a persistent bottom navigation bar visible on all screens.  
+   ➤ *Impact:* User engagement and repeat orders increased as users found features more easily.
+
+3. **Unclear Error Feedback**  
+   The payment screen had no clear indication of why a transaction failed.  
+   ➤ *Resolution:* The wireframe was updated to include inline error messages and retry prompts.  
+   ➤ *Impact:* Reduced user frustration and decreased customer support tickets by 25% after launch.
+
+By detecting these issues **before any coding began**, the team saved weeks of development rework and avoided confusion later in the testing phase.  
+The improved wireframes led to a cleaner, more intuitive experience that translated directly into higher customer satisfaction.
+
 
