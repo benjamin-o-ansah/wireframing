@@ -34,3 +34,38 @@ Wireframes act as a **guide for subsequent design and development phases**, ensu
 ### Focuses on Functionality and User Experience
 By stripping away visual design elements, wireframes allow designers to concentrate on the **functionality** and **user experience**, ensuring the product is intuitive and user-friendly.
 
+## Key Elements in a Wireframe
+
+### Layout Structure
+Defines the **arrangement of elements** on the page, establishing the overall framework for content and interaction.  
+It ensures consistency and visual balance across all screens or pages.
+
+**Example:**  
+A homepage wireframe might show a header at the top, a main content area in the center, and a footer at the bottom. This helps developers understand where each component should be positioned.
+
+---
+
+### Navigation
+Shows how users will **move through the site or application**, highlighting menus, buttons, and links that guide the user journey.  
+Effective navigation ensures that users can easily find information and perform desired actions.
+
+**Example:**  
+A navigation bar with links to “Home,” “Products,” “About,” and “Contact” allows users to understand the site structure and move seamlessly between sections.
+
+---
+
+### Content Placement
+Indicates **where text, images, and other content** will be positioned on each screen.  
+Proper content placement supports information hierarchy and ensures users’ attention is drawn to key messages or actions.
+
+**Example:**  
+In an e-commerce wireframe, product images may be placed at the top, with descriptions and pricing below, and an “Add to Cart” button prominently displayed to encourage conversions.
+
+---
+
+### Functionality
+Outlines **key functionalities and interactions**, such as buttons, search bars, forms, and dropdown menus.  
+It shows how each element behaves and responds to user input.
+
+**Example:**  
+A login page wireframe might include form fields for username and password, a “Login” button, and links for “Forgot Password?” — demonstrating core interactive behaviors without visual styling.
